@@ -1,0 +1,14 @@
+{
+  "friends": [
+    {
+      "age": "23",
+      "email": "ronokamau2gmail.com",
+      "has_girlfriend": false
+    },
+    {
+      "age": "24",
+      "email": "wangaiguru@gmail.com",
+      "has_girlfriend": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"friends":[
+		{ 
+			"name": "Rono Kamau",
+		 	"age": "23",
+		 	"email": "ronokamau2gmail.com",
+		 	"has_girlfriend": false
+	 	},
+	 	{
+			"name": "Wangai Guru",
+		 	"age": "24",					
+		 	"email": "wangaiguru@gmail.com",
+			"has_girlfriend": true
+	 	}		
+ 	]
+}
